@@ -41,7 +41,7 @@
 
   <p>Explore and enjoy the simplicity of this Spotify clone while honing your HTML and CSS skills. Happy coding!</p>
 
-  <img src="link_to_screenshot" alt="Spotify Clone Screenshot" />
+  <img src="https://github.com/regression1607/spotify_clone/blob/main/Screenshot%202023-07-30%20165701.png" alt="Spotify Clone Screenshot" />
 </body>
 
 </html>
