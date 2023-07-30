@@ -30,7 +30,7 @@
 
   <h2>How to Run:</h2>
   <ol>
-    <li>Clone the repository to your local machine using the following command: <code>git clone https://github.com/your_username/spotify-clone.git</code></li>
+    <li>Clone the repository to your local machine using the following command: <code>git clone https://github.com/regression1607/spotify-clone.git</code></li>
     <li>Extract the included images folder to access the project images.</li>
     <li>Open the project in your preferred web browser by double-clicking the <code>index.html</code> file.</li>
   </ol>
